@@ -15,6 +15,18 @@
 			<color>997f00ff</color>
 		</PolyStyle>
 	</Style>
+	<Style id="PolyStyleUNI">
+    <LabelStyle>
+        <color>00000000</color>
+        <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+        <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+        <color>ff808080</color>
+    </PolyStyle>
+</Style>
 	<StyleMap id="PolyStyle000">
 		<Pair>
 			<key>normal</key>
@@ -1475,7 +1487,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle000</styleUrl>
+			<styleUrl>#PolyStyleUNI</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -8172,7 +8184,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle000</styleUrl>
+			<styleUrl>#PolyStyleUNI</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -10163,7 +10175,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle000</styleUrl>
+			<styleUrl>#PolyStyleUNI</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -11068,7 +11080,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle000</styleUrl>
+			<styleUrl>#PolyStyleUNI</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -11973,7 +11985,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle000</styleUrl>
+			<styleUrl>#PolyStyleUNI</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -13421,7 +13433,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle000</styleUrl>
+			<styleUrl>#PolyStyleUNI</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -16498,7 +16510,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle000</styleUrl>
+			<styleUrl>#PolyStyleUNI</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -17584,7 +17596,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle000</styleUrl>
+			<styleUrl>#PolyStyleUNI</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -21385,7 +21397,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle000</styleUrl>
+			<styleUrl>#PolyStyleUNI</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -23557,7 +23569,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle000</styleUrl>
+			<styleUrl>#PolyStyleUNI</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -31521,7 +31533,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle000</styleUrl>
+			<styleUrl>#PolyStyleUNI</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -31702,7 +31714,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle000</styleUrl>
+			<styleUrl>#PolyStyleUNI</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -31883,7 +31895,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle000</styleUrl>
+			<styleUrl>#PolyStyleUNI</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -32064,7 +32076,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle000</styleUrl>
+			<styleUrl>#PolyStyleUNI</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -111885,7 +111897,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle000</styleUrl>
+			<styleUrl>#PolyStyleUNI</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
